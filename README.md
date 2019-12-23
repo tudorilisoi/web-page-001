@@ -13,4 +13,11 @@ git push -u origin master #push your latest commits to GitHub
 
 ```
 
+# Git  workflow (assumes a remote repository, i.e. working on a team):
+
+1. git pull
+2. work on the project and `git commit`
+3. git push
+4. repeat
+
 ### Happy holidays!
