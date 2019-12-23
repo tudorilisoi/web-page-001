@@ -12,3 +12,5 @@ git remote add origin git@github.com:tudorilisoi/web-page-001.git
 git push -u origin master #push your latest commits to GitHub
 
 ```
+
+### Happy holidays!
